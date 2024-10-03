@@ -1,0 +1,21 @@
+{
+  "name": "rates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aetherium Forge",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": false,
+    "arrowParens": "always"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

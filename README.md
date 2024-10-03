@@ -23,6 +23,7 @@ To access the exchange rates for a specific day, use the following URL format:
 
 ```bash
 https://cdn.jsdelivr.net/gh/Aetherium-Forge/rates/data/USD/2024/01/01.json
+```
 
 ### Example Requests
 

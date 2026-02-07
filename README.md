@@ -1,4 +1,5 @@
 [![Run](https://github.com/Aetherium-Forge/rates/actions/workflows/run.yml/badge.svg?branch=1)](https://github.com/Aetherium-Forge/rates/actions/workflows/run.yml)
+[![](https://data.jsdelivr.com/v1/package/gh/Aetherium-Forge/rates/badge)](https://www.jsdelivr.com/package/gh/Aetherium-Forge/rates)
 
 # Rates API
 
